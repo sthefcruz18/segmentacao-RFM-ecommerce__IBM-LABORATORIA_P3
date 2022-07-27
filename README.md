@@ -41,48 +41,49 @@
 
 
 ## Entregas e Conclusões: <br>
-📝**Pré-processamento e Limpeza:**
+📝**Pré-processamento e Limpeza:** <br>
+<img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/0.1_dataset_bruto.png"/><br>
 
-<br>Dataset Bruto com insconsistências:<br>
-<br>IMAGEM 0.1 <img src=" "/><br>
+<img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/0.2_limpeza_dataset.png"/><br>
 
-<br>Limpeza realizada:<br
-<br>IMAGEM 0.2 <img src=" "/><br>
-
-<br>Dataset Limpo:<br>
-<br>IMAGEM 0.2 <img src=" "/><br>
+<img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/0.3_dataset_limpo.png"/><br>
 
 
 📝**Principais métricas de negócios**
-<br>IMAGEM 1 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/1.faturas_por_pa%C3%ADs.png"/><br>
 
-<br>IMAGEM 2 <br><img src=" "/><br>
-<br>IMAGEM 2 <br><img src=" "/><br>
-<br>IMAGEM 2 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/2.faturas_mes_origem.png"/><br>
 
-<br>IMAGEM 3 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/2.faturas_mes_origem_2.png"/><br>
 
-IMAGEM 4 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/3.montante_vendas_mes_origem_1.png"/><br>
 
-IMAGEM 5 <br><img src=" "/><br>
-IMAGEM 5 <br><img src=" "/><br>
-IMAGEM 5 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/4.montante_por_pa%C3%ADs.png"/><br>
 
-IMAGEM 6 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/5.montante_vs_faturas_1.png"/><br>
 
-IMAGEM 7 <br><img src=" "/><br>
-IMAGEM 7 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/5.montante_vs_faturas_2.png"/><br>
 
-IMAGEM 8 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/c3eb647ee7515a227702e1d1371ea5adf4c8d679/5.montante_vs_faturas_3.png"/><br>
 
-IMAGEM 9 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/6.clientes_por_pa%C3%ADs.png"/><br>
 
-IMAGEM 10 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/7.clientes_unicos_mes_1.png"/><br>
 
-IMAGEM 11 <br><img src=" "/><br>
-IMAGEM 11 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/7.clientes_unicos_mes_2.png"/><br>
 
-IMAGEM 12 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/8.top_10_clientes.png"/><br>
+
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/9.top_10_clientes_montante.png"/><br>
+
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/10.vendas_produtos_mes.png"/><br>
+
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/11.produtosXmontanteXfaturas_2.png"/><br>
+
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/11.produtosXmontanteXfaturas_2.png"/><br>
+
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/12.clientes_voltaram_comprar.png"/><br>
+
 
 📝**Análise por coorte geral:**
 <br>Com a tabela de coorte pelo mês da primeira compra, costruíu-se uma tabela da taxa de retenção com escala de cores, de modo a que pudessemos analisar visualmente a retenção dos clientes.
@@ -94,8 +95,8 @@ Se considerarmos a taxa ideal de retenção para e-commerce em 30%, teremos apen
 Ao visualizar a retenção num gráfico podemos verificar que a maioria dos coortes estão com porcentagem de retenção abaixo dos 30%.
 Portanto a empresa ainda não atingiu a retenção ideal para uma empresa do ramo do e-commerce.
 
-<br>IMAGEM 13 <br><img src=" "/><br>
-IMAGEM 14 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/13.retencao_coorte_geral.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/14.retencao_coorte_geral_grafico.png"/><br>
 
 
 📝**Análise por coorte de clientes do Reino Unido:**
@@ -115,8 +116,8 @@ Porém, visualiza-se também que nos meses finais do ano a tendência é que os 
 
 É interessante pesquisar quais estratégias estão sendo empregadas neste período, afim de replicá-las nos demais meses visando a retenção de pelo menos 30% dos clientes.	
 		
-IMAGEM 15 <br><img src=" "/><br>
-IMAGEM 16 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/15.retencao_coorte_UK.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/16.retencao_coorte_UK_grafico.png"/><br>
 
 📝**Análise por coorte de clientes FORA do Reino Unido:**
 <br>Com a tabela de coorte pelo mês da primeira compra, costruíu-se uma tabela da taxa de retenção dos clientes estrangeiros numa escala de cores, de modo a que pudessemos analisar visualmente a retenção dos clientes, desta vez apenas dos estrangeiros.
@@ -129,21 +130,20 @@ Ao visualizar a retenção num gráfico podemos verificar que a maioria dos coor
 
 Cabe ressaltar que a taxa de retenção de clientes estrangeiros oscila mais do que a dos clientes do Reino Unido.		
 		
-<br>IMAGEM 17 <br><img src=" "/><br>
-IMAGEM 18 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/17.retencao_coorte_foraUK.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/18.retencao_coorte_foraUK_grafico.png"/><br>
 
 📝**Segmentação usando a metodologia RFM / RFV:** 
-
 <br>Preparar um novo conjunto de dados, Cálculo de quartis para cada variável, Calcular o número de dias que passaram desde a última compra do cliente até o dia da análise (Recência), Calcular o número de faturas que estão associadas a cada cliente (Frequência), Calcular o valor total gasto pelo cliente (Monetário ou Valor), Criar diferentes codificações com caracterizações dos clientes, Analisar as informações considerando a Lei de Pareto (80/20)
 
-<br>IMAGEM 19 <br><img src=" "/><br>
-IMAGEM 20 <br><img src=" "/><br>
-IMAGEM 21 <br><img src=" "/><br>
-IMAGEM 22 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/19.dataset_segmentacao.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/20.segmentacao_categorias.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/21.origem_bons_clientes.png"/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/22.montanteVSfaturas_bons_clientes.png"/><br>
 
 📝**Dashboard interativo no Google Data Studio:**
 <br> <a href="https://datastudio.google.com/reporting/584de949-be22-46b1-8d30-7dade399cd37">Clique aqui para acessar o dashboard no Google Data Studio</a><br>
-<br>IMAGEM 23 <br><img src=" "/><br>
+<br><img src="https://github.com/sthefcruz18/segmentacao-RFM-ecommerce__IBM-LABORATORIA_P3/blob/main/23.dashboard.png"/><br>
 
 ## Dataset: <br>
 💻 Os dados são públicos e fictícios<br>
